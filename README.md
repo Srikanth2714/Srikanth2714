@@ -35,6 +35,17 @@
 - **Tech Stack**: Python, Pandas, Scikit-learn
 - **Source Code**: [GitHub Repo](https://github.com/Srikanth2714/Book-Recommendation-System)
 
+##### 3. Resume Classification
+- **Description**: Built a machine learning model to classify resumes into various job categories using NLP techniques for text analysis.
+- **Tech Stack**: Python, Pandas, NumPy, scikit-learn, NLTK, SpaCy
+- **Source Code**: [GitHub Repo](https://github.com/Srikanth2714/Resume-Classification)
+
+##### 4. Book Recommendation System
+- **Description**: Developed a regression model to predict solar power generation based on weather and environmental factors, optimizing energy forecasting accuracy.
+- **Tech Stack**: Python, Pandas, scikit-learn, Matplotlib, Seaborn
+- **Source Code**: [GitHub Repo](https://github.com/Srikanth2714/Solar-Power-Prediction)
+
+
 #### 💼 Work Experience
 - **Data Science Intern** at Ai Variant: Gained hands-on experience in developing machine learning solutions and collaborated on innovative data-driven projects.
 
@@ -51,7 +62,8 @@
 ---
 
 ### Let's Connect!
-📧 **Email**: srikanth.lankemalla72@gmail.com  
+📧 **Email**: srikanth.lankemalla72@gmail.com
+📱 **Phone**: +91 80088 06255
 🔗 **LinkedIn**: [Srikanth Lankemalla](https://www.linkedin.com/in/srikanth-lankemalla-4a6424252)  
 💻 **GitHub**: [Srikanth2714](https://github.com/Srikanth2714)
 
