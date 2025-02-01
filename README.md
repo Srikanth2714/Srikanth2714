@@ -40,7 +40,7 @@
 - **Tech Stack**: Python, Pandas, NumPy, scikit-learn, NLTK, SpaCy
 - **Source Code**: [GitHub Repo](https://github.com/Srikanth2714/Resume-Classification)
 
-##### 4. Book Recommendation System
+##### 4. Solar Power Prediction
 - **Description**: Developed a regression model to predict solar power generation based on weather and environmental factors, optimizing energy forecasting accuracy.
 - **Tech Stack**: Python, Pandas, scikit-learn, Matplotlib, Seaborn
 - **Source Code**: [GitHub Repo](https://github.com/Srikanth2714/Solar-Power-Prediction)
